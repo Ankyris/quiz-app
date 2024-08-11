@@ -1,0 +1,112 @@
+[
+    {
+        "id": "01",
+        "question" : "What is the capital city of Myanmar",
+        "options": [
+            "Mandalay",
+            "Naypyidaw",
+            "Yangon",
+            "Bagan"
+        ],
+        "answer": "Naypyidaw"
+    },
+    {
+        "id": "02",
+        "question" : "Which river is the longest in Myanmar?",
+        "options": [
+            "Irrawaddy River",
+            "Chindwin River",
+            "Salween River",
+            "Sittaung River"    
+        ],
+        "answer": "Irrawaddy River"
+    },
+    {
+        "id": "03",
+        "question" : "In which year did Myanmar gain independence from Birtish rule?",
+        "options": [
+            "1945",
+            "1947",
+            "1948",
+            "1950"
+        ],
+        "answer": "1948"
+    },
+    {
+        "id": "04",
+        "question" : "Who was the leader of Myanmar's independence movement and the country's first Prime Minister",
+        "options": [
+            "U Nu",
+            "Aung San",
+            "Ne Win",
+            "U Thant"
+        ],
+        "answer": "Aung San"
+    },
+    {
+        "id": "05",
+        "question" : "What is the traditional Burmese dress for men called?",
+        "options": [
+            "Longyi",
+            "Htaingmathein",
+            "Pasoe",
+            "None of the above."
+        ],
+        "answer": "Pasoe"
+    },
+    {
+        "id": "06",
+        "question" : "What was the Myanmar's former name before it was officially changed in 1989?",
+        "options": [
+            "Siam",
+            "Rangoon",
+            "Ceylon",
+            "Burma"
+        ],
+        "answer": "Burma"
+    },
+    {
+        "id": "07",
+        "question" : "Who is the Nobel Peace Prize lauerate known for her efforts in promoting demmocracy in Myanmar",
+        "options": [
+            "Aung San Suu Kyi",
+            "Thein Sein",
+            "Min Aung Hlaing",
+            "Than Shwe"
+        ],
+        "answer": "Aung San Suu Kyi"
+    },
+    {
+        "id": "08",
+        "question" : "Which natural resource is a significant export of Myanmar?",
+        "options": [
+            "Gold",
+            "Natural gas",
+            "Humans",
+            "Teas"
+        ],
+        "answer": "Natural gas"
+    },
+    {
+        "id": "09",
+        "question" : "Which ancient city in Myanmar is famous for its thousands of Buddhist temples and pagodas?",
+        "options": [
+            "Mrauk U",
+            "Mandalay",
+            "Pyay",
+            "Bagan"
+        ],
+        "answer": "Bagan"
+    },
+    {
+        "id": "10",
+        "question" : "Which traditional festival in Myanmar involves water fights and is celebrated in April?",
+        "options": [
+            "Tazaungdaing",
+            "Thadingyut",
+            "Thingyan",
+            "Kason"
+        ],
+        "answer": "Thingyan"
+    }
+]
